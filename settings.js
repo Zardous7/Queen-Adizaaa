@@ -15,7 +15,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || 'QUEEN-ADIZA~yd412SAY#Y7Ymlza-Q9oTvJBd44wJT1MmawNAeAm8dGCWKD0fWOU' 
+global.SESSION_ID = process.env.SESSION_ID || 'QUEEN-ADIZA~nJxTQY5B#BQvXZQFkUtWpFj8lYn1sQE-WAZ-u32suNwF01G_jZGU' 
 //Enter your Adiza session id here; must start with QUEEN~ADIZA~
 
 //--------------------[ BOT NAME ]----------------------//
